@@ -1,0 +1,8 @@
+C:\D Drive\Test Projects\ToteBettinProblem\ToteBettinProblem\bin\Debug\ToteBettinProblem.exe.config
+C:\D Drive\Test Projects\ToteBettinProblem\ToteBettinProblem\bin\Debug\ToteBettinProblem.exe
+C:\D Drive\Test Projects\ToteBettinProblem\ToteBettinProblem\bin\Debug\ToteBettinProblem.pdb
+C:\D Drive\Test Projects\ToteBettinProblem\ToteBettinProblem\bin\Debug\Ninject.dll
+C:\D Drive\Test Projects\ToteBettinProblem\ToteBettinProblem\bin\Debug\Ninject.xml
+C:\D Drive\Test Projects\ToteBettinProblem\ToteBettinProblem\obj\Debug\ToteBettinProblem.exe
+C:\D Drive\Test Projects\ToteBettinProblem\ToteBettinProblem\obj\Debug\ToteBettinProblem.pdb
+C:\D Drive\Test Projects\ToteBettinProblem\ToteBettinProblem\obj\Debug\ToteBettinProblem.csprojResolveAssemblyReference.cache

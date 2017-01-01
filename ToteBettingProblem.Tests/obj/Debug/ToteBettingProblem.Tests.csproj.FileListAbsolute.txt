@@ -1,0 +1,13 @@
+C:\D Drive\Test Projects\ToteBettinProblem\ToteBettingProblem.Tests\bin\Debug\ToteBettingProblem.Tests.dll
+C:\D Drive\Test Projects\ToteBettinProblem\ToteBettingProblem.Tests\bin\Debug\ToteBettingProblem.Tests.pdb
+C:\D Drive\Test Projects\ToteBettinProblem\ToteBettingProblem.Tests\obj\Debug\ToteBettingProblem.Tests.dll
+C:\D Drive\Test Projects\ToteBettinProblem\ToteBettingProblem.Tests\obj\Debug\ToteBettingProblem.Tests.pdb
+C:\D Drive\Test Projects\ToteBettinProblem\ToteBettingProblem.Tests\obj\Debug\ToteBettingProblem.Tests.csprojResolveAssemblyReference.cache
+C:\D Drive\Test Projects\ToteBettinProblem\ToteBettingProblem.Tests\bin\Debug\ToteBettinProblem.exe
+C:\D Drive\Test Projects\ToteBettinProblem\ToteBettingProblem.Tests\bin\Debug\Ninject.dll
+C:\D Drive\Test Projects\ToteBettinProblem\ToteBettingProblem.Tests\bin\Debug\ToteBettinProblem.pdb
+C:\D Drive\Test Projects\ToteBettinProblem\ToteBettingProblem.Tests\bin\Debug\Ninject.xml
+C:\D Drive\Test Projects\ToteBettinProblem\ToteBettingProblem.Tests\bin\Debug\Castle.Core.dll
+C:\D Drive\Test Projects\ToteBettinProblem\ToteBettingProblem.Tests\bin\Debug\Moq.dll
+C:\D Drive\Test Projects\ToteBettinProblem\ToteBettingProblem.Tests\bin\Debug\Castle.Core.xml
+C:\D Drive\Test Projects\ToteBettinProblem\ToteBettingProblem.Tests\bin\Debug\Moq.xml
